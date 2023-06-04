@@ -1,16 +1,3 @@
 # quizzler_flutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![스크린샷 2023-06-04 오후 4 03 00](https://github.com/choijaegwon/choijaegwon.github.io/assets/68246962/d3f61ebd-aa78-4b2d-bd2b-fa236e7e7559)    
+![image](https://github.com/choijaegwon/choijaegwon.github.io/assets/68246962/63422079-7b51-474c-bdc3-e390309b444d)  
